@@ -1,0 +1,63 @@
+name: Tibo original posts to QQ mail
+on:
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: 'verify / test-email / initialize (after confirming test receipt) / monitor'
+        type: choice
+        required: true
+        default: verify
+        options: [verify, test-email, initialize, monitor]
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+permissions:
+  contents: read
+concurrency:
+  group: tibo-mail-state
+  cancel-in-progress: false
+jobs:
+  monitor:
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'workflow_dispatch' || vars.MONITOR_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    env:
+      STATE_PATH: runtime/state.json
+      STATE_GIT_SYNC: 'true'
+      OPERATION: ${{ inputs.operation || 'monitor' }}
+    steps:
+      - name: Checkout application
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Checkout durable state (missing state is a hard failure)
+        uses: actions/checkout@v4
+        with:
+          ref: monitor-state
+          path: runtime
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Configure state commit identity
+        working-directory: runtime
+        run: |
+          git config user.name 'tibo-mail[bot]'
+          git config user.email 'tibo-mail[bot]@users.noreply.github.com'
+      - name: Verify monitor behavior
+        if: inputs.operation == 'verify'
+        run: npx vitest run tests/tibo-monitor.test.ts tests/tibo-mail.test.ts tests/tibo-checkpoint.test.ts tests/tibo-source.test.ts
+      - name: Run monitor operation
+        env:
+          QQ_EMAIL: ${{ secrets.QQ_EMAIL }}
+          QQ_SMTP_AUTH_CODE: ${{ secrets.QQ_SMTP_AUTH_CODE }}
+        run: npm run tibo:monitor -- "$OPERATION"
+      - name: Preserve recovery checkpoint on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tibo-state-recovery-${{ github.run_id }}
+          path: runtime/state.json
+          retention-days: 7

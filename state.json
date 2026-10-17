@@ -7,25 +7,9 @@
   "lastSuccessAt": "2026-10-17T17:59:12.943Z",
   "sent": {
     "2111492028177723532": "2026-10-17T17:59:18.423Z",
-    "2111492673890824348": "2026-10-17T17:59:22.900Z"
+    "2111492673890824348": "2026-10-17T17:59:22.900Z",
+    "2111495392559067199": "2026-10-17T17:59:27.270Z"
   },
-  "pending": [
-    {
-      "id": "2111495392559067199",
-      "post": {
-        "id": "2111495392559067199",
-        "canonicalId": "2111495392559067199",
-        "text": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.",
-        "createdAt": "2026-10-17T16:31:45.000Z",
-        "url": "https://x.com/thsottiaux/status/2111495392559067199",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-10-17T17:59:24.051Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

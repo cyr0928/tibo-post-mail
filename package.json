@@ -1,0 +1,26 @@
+{
+  "name": "tibo-post-mail",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tibo original posts to QQ SMTP email, based on AllenXiao95/codex-reset-signal",
+  "license": "MIT",
+  "scripts": {
+    "tibo:monitor": "node --import tsx src/tibo/cli.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "nodemailer": "^10.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.30",
+    "@types/nodemailer": "^8.0.2",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3",
+    "vitest": "5.0.5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

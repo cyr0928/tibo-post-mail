@@ -5,24 +5,10 @@
   "initializedAt": "2026-10-17T15:51:01.628Z",
   "sinceId": "2111495392559067199",
   "lastSuccessAt": "2026-10-17T17:59:12.943Z",
-  "sent": {},
+  "sent": {
+    "2111492028177723532": "2026-10-17T17:59:18.423Z"
+  },
   "pending": [
-    {
-      "id": "2111492028177723532",
-      "post": {
-        "id": "2111492028177723532",
-        "canonicalId": "2111492028177723532",
-        "text": "Is it just me or was @ajambrosino nerfed today",
-        "createdAt": "2026-10-17T16:18:23.000Z",
-        "url": "https://x.com/thsottiaux/status/2111492028177723532",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-10-17T17:59:14.094Z"
-    },
     {
       "id": "2111492673890824348",
       "post": {

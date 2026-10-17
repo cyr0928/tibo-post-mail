@@ -6,33 +6,10 @@
   "sinceId": "2111495392559067199",
   "lastSuccessAt": "2026-10-17T17:59:12.943Z",
   "sent": {
-    "2111492028177723532": "2026-10-17T17:59:18.423Z"
+    "2111492028177723532": "2026-10-17T17:59:18.423Z",
+    "2111492673890824348": "2026-10-17T17:59:22.900Z"
   },
   "pending": [
-    {
-      "id": "2111492673890824348",
-      "post": {
-        "id": "2111492673890824348",
-        "canonicalId": "2111492673890824348",
-        "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
-        "createdAt": "2026-10-17T16:20:57.000Z",
-        "url": "https://x.com/thsottiaux/status/2111492673890824348",
-        "media": [
-          {
-            "mediaKey": "2111492634128920576",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HU2HXRMbsAAqviR.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          }
-        ],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-10-17T17:59:19.630Z"
-    },
     {
       "id": "2111495392559067199",
       "post": {

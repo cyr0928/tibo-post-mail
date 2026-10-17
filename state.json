@@ -6,5 +6,6 @@
   "sinceId": null,
   "lastSuccessAt": null,
   "sent": {},
-  "pending": []
+  "pending": [],
+  "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

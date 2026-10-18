@@ -3,8 +3,8 @@
   "username": "thsottiaux",
   "userId": "1953337039510003712",
   "initializedAt": "2026-10-17T15:51:01.628Z",
-  "sinceId": "2111849858374177222",
-  "lastSuccessAt": "2026-10-18T19:24:31.490Z",
+  "sinceId": "2111918768733753664",
+  "lastSuccessAt": "2026-10-18T23:49:44.082Z",
   "sent": {
     "2111492028177723532": "2026-10-17T17:59:18.423Z",
     "2111492673890824348": "2026-10-17T17:59:22.900Z",
@@ -12,6 +12,22 @@
     "2111566005684289735": "2026-10-17T22:38:19.312Z",
     "2111849858374177222": "2026-10-18T16:52:32.972Z"
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "2111918768733753664",
+      "post": {
+        "id": "2111918768733753664",
+        "canonicalId": "2111918768733753664",
+        "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
+        "createdAt": "2026-10-18T20:34:06.000Z",
+        "url": "https://x.com/thsottiaux/status/2111918768733753664",
+        "media": [],
+        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
+        "hasArticle": false
+      },
+      "attempts": 0,
+      "status": "pending"
+    }
+  ],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

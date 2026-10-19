@@ -11,25 +11,9 @@
     "2111495392559067199": "2026-10-17T17:59:27.270Z",
     "2111566005684289735": "2026-10-17T22:38:19.312Z",
     "2111849858374177222": "2026-10-18T16:52:32.972Z",
-    "2111918768733753664": "2026-10-18T23:49:49.939Z"
+    "2111918768733753664": "2026-10-18T23:49:49.939Z",
+    "2111990254408434095": "2026-10-19T02:28:31.037Z"
   },
-  "pending": [
-    {
-      "id": "2111990254408434095",
-      "post": {
-        "id": "2111990254408434095",
-        "canonicalId": "2111990254408434095",
-        "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
-        "createdAt": "2026-10-19T01:18:10.000Z",
-        "url": "https://x.com/thsottiaux/status/2111990254408434095",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-10-19T02:28:27.659Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

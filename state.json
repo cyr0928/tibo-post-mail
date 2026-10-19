@@ -28,8 +28,9 @@
         "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
         "hasArticle": false
       },
-      "attempts": 0,
-      "status": "pending"
+      "attempts": 1,
+      "status": "sending",
+      "lastAttemptAt": "2026-10-19T08:04:23.646Z"
     }
   ],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"

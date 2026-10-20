@@ -3,8 +3,8 @@
   "username": "thsottiaux",
   "userId": "1953337039510003712",
   "initializedAt": "2026-10-17T15:51:01.628Z",
-  "sinceId": "2112432076767289678",
-  "lastSuccessAt": "2026-10-20T14:32:14.777Z",
+  "sinceId": "2112592264686149749",
+  "lastSuccessAt": "2026-10-20T18:42:53.578Z",
   "sent": {
     "2111492028177723532": "2026-10-17T17:59:18.423Z",
     "2111492673890824348": "2026-10-17T17:59:22.900Z",
@@ -16,6 +16,22 @@
     "2112034063934742720": "2026-10-19T08:04:22.192Z",
     "2112039275344941371": "2026-10-19T08:04:27.165Z"
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "2112592264686149749",
+      "post": {
+        "id": "2112592264686149749",
+        "canonicalId": "2112592264686149749",
+        "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
+        "createdAt": "2026-10-20T17:10:20.000Z",
+        "url": "https://x.com/thsottiaux/status/2112592264686149749",
+        "media": [],
+        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
+        "hasArticle": false
+      },
+      "attempts": 0,
+      "status": "pending"
+    }
+  ],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

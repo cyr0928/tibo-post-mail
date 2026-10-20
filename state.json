@@ -14,25 +14,9 @@
     "2111918768733753664": "2026-10-18T23:49:49.939Z",
     "2111990254408434095": "2026-10-19T02:28:31.037Z",
     "2112034063934742720": "2026-10-19T08:04:22.192Z",
-    "2112039275344941371": "2026-10-19T08:04:27.165Z"
+    "2112039275344941371": "2026-10-19T08:04:27.165Z",
+    "2112592264686149749": "2026-10-20T18:42:59.495Z"
   },
-  "pending": [
-    {
-      "id": "2112592264686149749",
-      "post": {
-        "id": "2112592264686149749",
-        "canonicalId": "2112592264686149749",
-        "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
-        "createdAt": "2026-10-20T17:10:20.000Z",
-        "url": "https://x.com/thsottiaux/status/2112592264686149749",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-10-20T18:42:54.891Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

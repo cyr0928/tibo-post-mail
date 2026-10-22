@@ -16,25 +16,9 @@
     "2112034063934742720": "2026-10-19T08:04:22.192Z",
     "2112039275344941371": "2026-10-19T08:04:27.165Z",
     "2112592264686149749": "2026-10-20T18:42:59.495Z",
-    "2113029655095836957": "2026-10-21T22:46:01.894Z"
+    "2113029655095836957": "2026-10-21T22:46:01.894Z",
+    "2113162277688070445": "2026-10-22T20:06:06.551Z"
   },
-  "pending": [
-    {
-      "id": "2113162277688070445",
-      "post": {
-        "id": "2113162277688070445",
-        "canonicalId": "2113162277688070445",
-        "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
-        "createdAt": "2026-10-22T06:55:22.000Z",
-        "url": "https://x.com/thsottiaux/status/2113162277688070445",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-10-22T20:06:02.003Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

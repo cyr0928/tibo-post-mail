@@ -19,25 +19,9 @@
     "2113029655095836957": "2026-10-21T22:46:01.894Z",
     "2113162277688070445": "2026-10-22T20:06:06.551Z",
     "2113492187770175603": "2026-10-23T12:08:06.983Z",
-    "2113770573994299544": "2026-10-23T23:28:21.131Z"
+    "2113770573994299544": "2026-10-23T23:28:21.131Z",
+    "2113838156193894447": "2026-10-24T07:14:19.437Z"
   },
-  "pending": [
-    {
-      "id": "2113838156193894447",
-      "post": {
-        "id": "2113838156193894447",
-        "canonicalId": "2113838156193894447",
-        "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
-        "createdAt": "2026-10-24T03:41:04.000Z",
-        "url": "https://x.com/thsottiaux/status/2113838156193894447",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-10-24T07:14:16.026Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

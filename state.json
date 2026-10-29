@@ -3,8 +3,8 @@
   "username": "thsottiaux",
   "userId": "1953337039510003712",
   "initializedAt": "2026-10-17T15:51:01.628Z",
-  "sinceId": "2115622002581188681",
-  "lastSuccessAt": "2026-10-29T10:28:28.269Z",
+  "sinceId": "2115851621137784832",
+  "lastSuccessAt": "2026-10-29T17:04:01.852Z",
   "sent": {
     "2111492028177723532": "2026-10-17T17:59:18.423Z",
     "2111492673890824348": "2026-10-17T17:59:22.900Z",
@@ -28,6 +28,22 @@
     "2114595002210783279": "2026-10-26T11:00:39.871Z",
     "2115297093879472332": "2026-10-28T07:33:52.139Z"
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "2115850175868727621",
+      "post": {
+        "id": "2115850175868727621",
+        "canonicalId": "2115850175868727621",
+        "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+        "createdAt": "2026-10-29T16:56:07.000Z",
+        "url": "https://x.com/thsottiaux/status/2115850175868727621",
+        "media": [],
+        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
+        "hasArticle": false
+      },
+      "attempts": 0,
+      "status": "pending"
+    }
+  ],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

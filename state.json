@@ -34,25 +34,9 @@
     "2117035794678546764": "2026-11-02T02:37:36.666Z",
     "2117283124833055196": "2026-11-03T10:01:47.151Z",
     "2117489367417803042": "2026-11-03T10:01:51.708Z",
-    "2117746467058405665": "2026-11-03T22:36:26.373Z"
+    "2117746467058405665": "2026-11-03T22:36:26.373Z",
+    "2118569235953893573": "2026-11-06T07:02:44.485Z"
   },
-  "pending": [
-    {
-      "id": "2118569235953893573",
-      "post": {
-        "id": "2118569235953893573",
-        "canonicalId": "2118569235953893573",
-        "text": "I can confidently say that humans were not very good at writing secure infrastructure. The endstate will be hypersecure infrastructure and software for all, but we're going to go through some turbulence before we reach that.",
-        "createdAt": "2026-11-06T05:00:41.000Z",
-        "url": "https://x.com/thsottiaux/status/2118569235953893573",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-11-06T07:02:40.784Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

@@ -3,8 +3,8 @@
   "username": "thsottiaux",
   "userId": "1953337039510003712",
   "initializedAt": "2026-10-17T15:51:01.628Z",
-  "sinceId": "2120267268517249036",
-  "lastSuccessAt": "2026-11-11T06:02:12.051Z",
+  "sinceId": "2120410480204525936",
+  "lastSuccessAt": "2026-11-11T14:08:36.287Z",
   "sent": {
     "2111492028177723532": "2026-10-17T17:59:18.423Z",
     "2111492673890824348": "2026-10-17T17:59:22.900Z",
@@ -39,6 +39,22 @@
     "2118871902366441879": "2026-11-07T13:33:03.519Z",
     "2119296267545419987": "2026-11-08T07:56:13.578Z"
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "2120410006273380750",
+      "post": {
+        "id": "2120410006273380750",
+        "canonicalId": "2120410006273380750",
+        "text": "It’s been a while without resets. Maybe I should come back out of the basement",
+        "createdAt": "2026-11-11T06:55:15.000Z",
+        "url": "https://x.com/thsottiaux/status/2120410006273380750",
+        "media": [],
+        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
+        "hasArticle": false
+      },
+      "attempts": 0,
+      "status": "pending"
+    }
+  ],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

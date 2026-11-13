@@ -3,8 +3,8 @@
   "username": "thsottiaux",
   "userId": "1953337039510003712",
   "initializedAt": "2026-10-17T15:51:01.628Z",
-  "sinceId": "2120410480204525936",
-  "lastSuccessAt": "2026-11-12T10:15:04.827Z",
+  "sinceId": "2121062974161092792",
+  "lastSuccessAt": "2026-11-13T04:51:02.655Z",
   "sent": {
     "2111492028177723532": "2026-10-17T17:59:18.423Z",
     "2111492673890824348": "2026-10-17T17:59:22.900Z",
@@ -40,6 +40,37 @@
     "2119296267545419987": "2026-11-08T07:56:13.578Z",
     "2120410006273380750": "2026-11-11T14:08:41.226Z"
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "2121036562058400200",
+      "post": {
+        "id": "2121036562058400200",
+        "canonicalId": "2121036562058400200",
+        "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+        "createdAt": "2026-11-13T00:24:58.000Z",
+        "url": "https://x.com/thsottiaux/status/2121036562058400200",
+        "media": [],
+        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
+        "hasArticle": false
+      },
+      "attempts": 0,
+      "status": "pending"
+    },
+    {
+      "id": "2121062974161092792",
+      "post": {
+        "id": "2121062974161092792",
+        "canonicalId": "2121062974161092792",
+        "text": "How can codex be improved? Try not to say model.",
+        "createdAt": "2026-11-13T02:09:55.000Z",
+        "url": "https://x.com/thsottiaux/status/2121062974161092792",
+        "media": [],
+        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
+        "hasArticle": false
+      },
+      "attempts": 0,
+      "status": "pending"
+    }
+  ],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

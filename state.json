@@ -40,25 +40,9 @@
     "2119296267545419987": "2026-11-08T07:56:13.578Z",
     "2120410006273380750": "2026-11-11T14:08:41.226Z",
     "2121036562058400200": "2026-11-13T04:51:08.281Z",
-    "2121062974161092792": "2026-11-13T04:51:12.380Z"
+    "2121062974161092792": "2026-11-13T04:51:12.380Z",
+    "2121845965997101118": "2026-11-15T10:43:21.660Z"
   },
-  "pending": [
-    {
-      "id": "2121845965997101118",
-      "post": {
-        "id": "2121845965997101118",
-        "canonicalId": "2121845965997101118",
-        "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
-        "createdAt": "2026-11-15T06:01:14.000Z",
-        "url": "https://x.com/thsottiaux/status/2121845965997101118",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-11-15T10:43:17.954Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

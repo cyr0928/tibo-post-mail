@@ -45,25 +45,9 @@
     "2122206990101536852": "2026-11-16T09:31:19.311Z",
     "2122929634916679820": "2026-11-18T10:41:07.096Z",
     "2123113107048501273": "2026-11-18T19:09:33.709Z",
-    "2123505331531882923": "2026-11-20T00:43:12.117Z"
+    "2123505331531882923": "2026-11-20T00:43:12.117Z",
+    "2123556256392847657": "2026-11-20T00:43:16.512Z"
   },
-  "pending": [
-    {
-      "id": "2123556256392847657",
-      "post": {
-        "id": "2123556256392847657",
-        "canonicalId": "2123556256392847657",
-        "text": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. \n\nWe’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.",
-        "createdAt": "2026-11-19T23:17:19.000Z",
-        "url": "https://x.com/thsottiaux/status/2123556256392847657",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-11-20T00:43:13.441Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

@@ -46,25 +46,9 @@
     "2122929634916679820": "2026-11-18T10:41:07.096Z",
     "2123113107048501273": "2026-11-18T19:09:33.709Z",
     "2123505331531882923": "2026-11-20T00:43:12.117Z",
-    "2123556256392847657": "2026-11-20T00:43:16.512Z"
+    "2123556256392847657": "2026-11-20T00:43:16.512Z",
+    "2123997735326232775": "2026-11-21T11:46:47.445Z"
   },
-  "pending": [
-    {
-      "id": "2123997735326232775",
-      "post": {
-        "id": "2123997735326232775",
-        "canonicalId": "2123997735326232775",
-        "text": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
-        "createdAt": "2026-11-21T04:31:36.000Z",
-        "url": "https://x.com/thsottiaux/status/2123997735326232775",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-11-21T11:46:43.325Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

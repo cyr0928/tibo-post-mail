@@ -3,8 +3,8 @@
   "username": "thsottiaux",
   "userId": "1953337039510003712",
   "initializedAt": "2026-10-17T15:51:01.628Z",
-  "sinceId": "2124322968499282388",
-  "lastSuccessAt": "2026-11-23T08:10:07.538Z",
+  "sinceId": "2125141302501417232",
+  "lastSuccessAt": "2026-11-24T15:46:54.233Z",
   "sent": {
     "2111492028177723532": "2026-10-17T17:59:18.423Z",
     "2111492673890824348": "2026-10-17T17:59:22.900Z",
@@ -50,6 +50,30 @@
     "2123997735326232775": "2026-11-21T11:46:47.445Z",
     "2124277855131664869": "2026-11-21T23:29:32.924Z"
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "2124922313019953319",
+      "post": {
+        "id": "2124922313019953319",
+        "canonicalId": "2124922313019953319",
+        "text": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tuned 👀 https://t.co/Lw8q9Qw00r",
+        "createdAt": "2026-11-23T17:45:33.000Z",
+        "url": "https://x.com/thsottiaux/status/2124922313019953319",
+        "media": [
+          {
+            "mediaKey": "2124922054965411840",
+            "type": "gif",
+            "url": "https://video.twimg.com/tweet_video/HX09WcWbQAANyzi.mp4",
+            "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HX09WcWbQAANyzi.jpg",
+            "altText": null
+          }
+        ],
+        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
+        "hasArticle": false
+      },
+      "attempts": 0,
+      "status": "pending"
+    }
+  ],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

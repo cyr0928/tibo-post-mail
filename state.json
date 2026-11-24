@@ -48,33 +48,9 @@
     "2123505331531882923": "2026-11-20T00:43:12.117Z",
     "2123556256392847657": "2026-11-20T00:43:16.512Z",
     "2123997735326232775": "2026-11-21T11:46:47.445Z",
-    "2124277855131664869": "2026-11-21T23:29:32.924Z"
+    "2124277855131664869": "2026-11-21T23:29:32.924Z",
+    "2124922313019953319": "2026-11-24T15:46:59.748Z"
   },
-  "pending": [
-    {
-      "id": "2124922313019953319",
-      "post": {
-        "id": "2124922313019953319",
-        "canonicalId": "2124922313019953319",
-        "text": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tuned 👀 https://t.co/Lw8q9Qw00r",
-        "createdAt": "2026-11-23T17:45:33.000Z",
-        "url": "https://x.com/thsottiaux/status/2124922313019953319",
-        "media": [
-          {
-            "mediaKey": "2124922054965411840",
-            "type": "gif",
-            "url": "https://video.twimg.com/tweet_video/HX09WcWbQAANyzi.mp4",
-            "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HX09WcWbQAANyzi.jpg",
-            "altText": null
-          }
-        ],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-11-24T15:46:56.018Z"
-    }
-  ],
+  "pending": [],
   "testEmailSentAt": "2026-10-17T15:47:19.909Z"
 }

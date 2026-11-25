@@ -49,25 +49,10 @@
     "2123556256392847657": "2026-11-20T00:43:16.512Z",
     "2123997735326232775": "2026-11-21T11:46:47.445Z",
     "2124277855131664869": "2026-11-21T23:29:32.924Z",
-    "2124922313019953319": "2026-11-24T15:46:59.748Z"
+    "2124922313019953319": "2026-11-24T15:46:59.748Z",
+    "2125284868414394550": "2026-11-25T08:53:39.266Z"
   },
   "pending": [
-    {
-      "id": "2125284868414394550",
-      "post": {
-        "id": "2125284868414394550",
-        "canonicalId": "2125284868414394550",
-        "text": "Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. \n\nLet us know what you think and where we can improve!",
-        "createdAt": "2026-11-24T17:46:13.000Z",
-        "url": "https://x.com/thsottiaux/status/2125284868414394550",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-11-25T08:53:34.986Z"
-    },
     {
       "id": "2125299248782778588",
       "post": {

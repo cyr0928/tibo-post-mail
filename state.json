@@ -51,25 +51,10 @@
     "2124277855131664869": "2026-11-21T23:29:32.924Z",
     "2124922313019953319": "2026-11-24T15:46:59.748Z",
     "2125284868414394550": "2026-11-25T08:53:39.266Z",
-    "2125299248782778588": "2026-11-25T08:53:44.030Z"
+    "2125299248782778588": "2026-11-25T08:53:44.030Z",
+    "2125784147889393806": "2026-11-26T20:19:07.013Z"
   },
   "pending": [
-    {
-      "id": "2125784147889393806",
-      "post": {
-        "id": "2125784147889393806",
-        "canonicalId": "2125784147889393806",
-        "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
-        "createdAt": "2026-11-26T02:50:10.000Z",
-        "url": "https://x.com/thsottiaux/status/2125784147889393806",
-        "media": [],
-        "textNotice": "免费来源未提供全文完整性证明；以下为来源返回的全部原文，可能存在未识别的缺失。",
-        "hasArticle": false
-      },
-      "attempts": 1,
-      "status": "sending",
-      "lastAttemptAt": "2026-11-26T20:19:02.801Z"
-    },
     {
       "id": "2125853628250599730",
       "post": {
